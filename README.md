@@ -1,27 +1,75 @@
-# Wechat
+# 🤵 John Bonnett
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.2.
+<p align="center">
 
-## Development server
+![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+### Course-end Project 3
 
-## Code scaffolding
+This is a Full Stack Website Development project. Developing an **online chat portal** to allow team members to chat and also store the messages in the database.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- **The tools used for development are:** ```Visual Studio Code```, ```.Bootstrap 5.0```, ```HTML/CSS```, ```.Javascript``` ```.Github``` ```.Github Project Manager```, ```NodeJS```, ```MongoDB```
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+**Required dependencies to development this app:**
 
-## Running unit tests
+  > 1. Socket.io.
+  > 2. Mongoose.
+  > 3. Cors.
+  > 4. body-parser.
+  > 7. winston.
+  > 8. express-socket.io-session.
+  > 9. express-session.
+  > 10 .nodemon.
+  > 11. socket.io-client.
+  
+  **Required tools to check data while creating data flow:**
+  
+  > 1. Compass.
+  > 2. Postman.
+  > 3. Browser development tools Chrome and Firefox.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+**Required commands to run front-end for this app:**
 
-## Running end-to-end tests
+  > 1. npm install.
+  > 2. ng serve.
+  
+  **Required commands to run back-end for this app:**
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+  > 1. npm install.
+  > 2. node index.js.
 
-## Further help
+**REQUIRED OBJECTIVES MET:**
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+  > 1. The source codes is tracked on this GitHub repositories.
+  > 2. The tracked files are ignored during the pushes to my GitHub repository in order to track the tasks.
+  > 3. I also shared the link of this repository in the document submitted.
+  > 4. I also shared the link of this repository and to the project management board in the project  submitted.
+
+---
+
+**THE DEVELOPMENT STEPS:**
+
+- [Site layout](#markdown)
+- [Site Features](#markdown-syntax-extensions)
+  - [Login ](#markdown-extended-mde)
+  - [Chat / Send-Read messages](#markdown-extended-mde) 
+  - [Store all message in database](#markdown-extended-mde)
+
+
+# Gathering stage
+
+ The features for the chatRoom app has decided to allow the user to login before starting to Chat. The results will be shown to them once message is sent.
+
+**Socket.io**, polling and emitting data to front-end and database.
+
+- **👉 PWA**, I applied PWA to project-2.
+
+- **👉 PWA**, This project was done mostly on my own so far. We were not provided a working model using Angular and Node as a reference which made it harder.
+
+---
+
+Credit: [John Bonnett]
+
+Last Edited on: 06/09/2023
+
